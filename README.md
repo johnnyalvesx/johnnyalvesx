@@ -1,6 +1,6 @@
 ### Oi oi! Me chamo Johnny!
 
-- 🌱 Atualmente estudando desenvolvimento web java fullstack na Generation Brasil
+- 🌱 Atualmente trabalhando como desenvolvedor Java na CI&T Software!
 - 👯 Espero que algum dos meus códigos seja útil a você :D
 - 📫 Meu e-mail é: alvesjohnny@outlook.com
 - 😄 Pronomes: ele/dele
